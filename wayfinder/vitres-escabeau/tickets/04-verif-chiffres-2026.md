@@ -1,6 +1,9 @@
 # Vérifier les montants 2026 (APA, PCH, ASPA, CNAV, CASVP) sur les sources officielles
 
-`wayfinder:task` · AFK ou HITL · ouvert · non bloqué
+Type : `wayfinder:task`  
+Statut : ouvert  
+Assigné :   
+Bloqué par : 
 
 ## Question
 

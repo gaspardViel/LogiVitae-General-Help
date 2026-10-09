@@ -1,6 +1,9 @@
 # Recherche : que disent la loi, les CCN et les guides de prévention ?
 
-`wayfinder:research` · **fermé**
+Type : `wayfinder:research`  
+Statut : fermé  
+Assigné :   
+Bloqué par : 
 
 ## Question
 

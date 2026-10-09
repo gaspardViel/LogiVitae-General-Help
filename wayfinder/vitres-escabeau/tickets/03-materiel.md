@@ -1,6 +1,9 @@
 # Qui fournit la perche télescopique : le service ou le bénéficiaire ?
 
-`wayfinder:grilling` · HITL · **fermé**
+Type : `wayfinder:grilling`  
+Statut : fermé  
+Assigné : Gaspard Viel  
+Bloqué par : [Interdiction totale ou marchepied sécurisé ?](02-option-a-ou-b.md)
 
 ## Question
 

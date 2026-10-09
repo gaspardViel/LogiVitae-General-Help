@@ -1,6 +1,9 @@
 # Quelle convention collective et quel mode d'intervention s'appliquent à LogiVitae ?
 
-`wayfinder:task` · HITL · **fermé**
+Type : `wayfinder:task`  
+Statut : fermé  
+Assigné : Gaspard Viel  
+Bloqué par : 
 
 ## Question
 
