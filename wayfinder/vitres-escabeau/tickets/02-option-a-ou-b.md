@@ -1,6 +1,6 @@
 # Interdiction totale (option A) ou marchepied sécurisé toléré (option B) ?
 
-`wayfinder:grilling` · HITL · ouvert · **bloqué par** [Quelle convention collective…](01-quelle-ccn.md)
+`wayfinder:grilling` · HITL · ouvert · non bloqué (frontière)
 
 ## Question
 

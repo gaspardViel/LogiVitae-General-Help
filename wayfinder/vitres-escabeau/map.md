@@ -16,6 +16,8 @@ Une **règle écrite et validée par la direction de LogiVitae** sur le lavage d
 ## Décisions prises
 
 - [Recherche : que disent la loi, les CCN et les guides de prévention ?](tickets/00-recherche-cadre-legal.md) : l'escabeau comme poste de travail est **interdit** (R4323-63), sauf exceptions étroites. Les conventions collectives sont **muettes** sur ce point. La prévention recommande une **perche télescopique, pieds au sol**. Le cadre des financements 2026 est rassemblé dans la fiche.
+- [Quelle convention collective et quel mode d'intervention s'appliquent à LogiVitae ?](tickets/01-quelle-ccn.md) : entreprise ESUS, **prestataire uniquement**, donc IDCC 3127 a priori (à confirmer sur la fiche de paie). LogiVitae est l'employeur et le responsable de la sécurité.
+- [Qui fournit la perche télescopique ?](tickets/03-materiel.md) : **le bénéficiaire**. LogiVitae vérifie le matériel à la première visite. Sans perche, les vitres hors de portée ne sont pas faites.
 
 ## Pas encore précisé
 
