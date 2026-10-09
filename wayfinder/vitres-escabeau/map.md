@@ -4,7 +4,7 @@
 
 ## Destination
 
-Une **règle écrite et validée par la direction de LogiVitae** sur le lavage des vitres et le travail en hauteur au domicile. Elle doit être intégrée au DUERP, au règlement de fonctionnement et au DIPC, avec une fiche consignes pour les intervenant·es et une réponse type pour les familles.
+Une **règle écrite et validée par la direction de LogiVitae** sur le travail en hauteur au domicile (vitres, mais aussi rideaux, ampoules, placards hauts…). Elle doit être intégrée au DUERP, au règlement de fonctionnement et au DIPC, avec une fiche consignes pour les intervenant·es et une réponse type pour les familles.
 
 ## Notes
 
@@ -22,7 +22,6 @@ Une **règle écrite et validée par la direction de LogiVitae** sur le lavage d
 ## Not yet specified
 
 - Formulation définitive des clauses du DIPC et du règlement de fonctionnement : dépend de l'option A ou B.
-- Généralisation à d'autres tâches en hauteur (rideaux, ampoules, placards hauts) : même logique, périmètre à confirmer.
 - Communication aux financeurs et prescripteurs (Département, CASVP, Carsat), si utile.
 
 ## Out of scope

@@ -17,7 +17,10 @@ LogiVitae est l'employeur de l'intervenant·e et facture le bénéficiaire. C'es
 _À éviter_ : mandataire (non pratiqué)
 
 **Travail en hauteur** :
-Toute tâche qui oblige l'intervenant·e à quitter le sol (monter sur un escabeau, une chaise, un marchepied…).
+Toute tâche qui oblige l'intervenant·e à quitter le sol (monter sur un escabeau, une chaise, un marchepied…) : vitres, rideaux, ampoules, placards hauts, toiles d'araignée.
+
+**Vitre hors de portée** :
+Vitre qu'on ne peut pas laver entièrement pieds au sol, même avec la perche, sans se pencher à l'extérieur. Toute vitre qui oblige à se pencher à l'extérieur est hors de portée, quel que soit l'étage.
 
 **Perche** :
 Perche télescopique avec raclette, fournie par le bénéficiaire, pour laver les vitres sans quitter le sol.
